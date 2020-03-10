@@ -52,13 +52,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="api\.gitignore" />
-    <Content Include="bin\Debug\Identity.dll" />
-    <Content Include="bin\Debug\Identity.pdb" />
-    <Content Include="log.txt" />
-    <Content Include="obj\.cache\build\ns5b5ke3.zra\zdp3gsvh.wax" />
-    <Content Include="obj\Debug\Identity.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Debug\Identity.dll" />
-    <Content Include="obj\Debug\Identity.pdb" />
     <Content Include="_site\api\Identity.Class1.html" />
     <Content Include="_site\api\Identity.html" />
     <Content Include="_site\api\index.html" />
@@ -90,57 +83,6 @@
     <None Include="articles\toc.yml" />
     <None Include="docfx.json" />
     <None Include="index.md" />
-    <None Include="obj\.cache\build\build.info" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\04wybzpn.vt1" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\1aafvhd2.qlg" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\1pwcuoei.nxr" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\23fa3idx.fvr" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\2mblxifn.wg3" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\4yu0izwt.tty" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\5fv31gmr.br3" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\anl2xajy.dtt" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\bbmgs5fv.qud" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\bvo53yte.dy5" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\dgce0n24.3ou" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\dtsezuoo.nq4" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\e3pkoxdd.b41" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\fexiagvu.qwb" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\fjao3oka.34f" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\fz3a13rz.jxz" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\ghhczorw.zru" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\gtoqlpbz.ncv" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\guateso2.2vt" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\i3yta3ty.ij4" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\jetksfwj.qhx" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\jgyyxkg5.alz" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\lm0hnj25.lj3" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\lve5kcjc.qnt" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\mwazieb0.wke" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\n5qtwilu.luk" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\nuq2djim.4ma" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\olzehmp4.ow1" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\ovojuipd.ppq" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\pvrdpuis.xyc" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\qj30bw13.qfm" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\qowex14z.eoi" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\tfquwnqh.ait" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\ujepmjqm.hud" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\vnipglsw.4eu" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\wyt1500z.5c2" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\wyvjo05c.303" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\x3oy5p3u.fwl" />
-    <None Include="obj\.cache\build\ns5b5ke3.zra\zjnoet3m.xwe" />
-    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <None Include="obj\Debug\Identity.csprojAssemblyReference.cache" />
-    <None Include="obj\Identity.csproj.nuget.cache" />
-    <None Include="obj\Identity.csproj.nuget.dgspec.json" />
-    <None Include="obj\Identity.csproj.nuget.g.props" />
-    <None Include="obj\Identity.csproj.nuget.g.targets" />
-    <None Include="obj\project.assets.json" />
-    <None Include="obj\Release\Identity.csprojAssemblyReference.cache" />
-    <None Include="obj\xdoc\cache\final\1395679595" />
-    <None Include="obj\xdoc\cache\obj\.inter" />
-    <None Include="obj\xdoc\cache\obj\elsvcote.unq" />
     <None Include="toc.yml" />
     <None Include="_site\fonts\glyphicons-halflings-regular.eot" />
     <None Include="_site\fonts\glyphicons-halflings-regular.ttf" />
@@ -152,9 +94,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="apidoc\" />
-    <Folder Include="bin\Release\" />
     <Folder Include="images\" />
-    <Folder Include="obj\Debug\TempPE\" />
     <Folder Include="src\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
